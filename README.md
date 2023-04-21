@@ -1,7 +1,7 @@
 ## E aí, me chamo Vinícius Correia Ghiraldi 🙋‍♂📈
 
 - 🔭 Developer Full-Stack
-- 🌱 Estudando NodeJs + TypeScript
+- 🌱 Estudando ReactJs + NodeJs + TypeScript
 - 📫 Contato por email: vinighiraldi198@gmail.com
 
 
