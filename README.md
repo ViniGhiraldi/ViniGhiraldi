@@ -3,6 +3,7 @@
 - 🔭 Web Developer
 - 🌱 Estudando NextJs + NodeJs + TypeScript
 - 📫 Contato por email: vinighiraldi198@gmail.com
+- Gay 🌈🌈🌈
 
 
 <h3>Um pouco sobre meu perfil:</h3>
